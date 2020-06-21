@@ -1,3 +1,13 @@
 The iOS app submitted is intended to cover the excersizes in the course or act as a end of semester project replacement if needed.
 I don't know if it can be used but I have included a modified version of the All-Chat iOS project that I made, 
 and modified it to suit the new app.
+
+
+Accounts already in the database taht can be used to login:
+
+email: j@mail.com
+password: password123
+
+
+email:k@pop.com
+password: Macklemore
